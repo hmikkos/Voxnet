@@ -5,5 +5,5 @@ Pytorch implementation for final project at school. Course  : INF473V - Modal d'
 
 The slides I used for the presentation are available here : https://docs.google.com/presentation/d/1y5CylfiLsxPG0lWByO80lIPAM1kdtWkpk4WBWnOiUP0/edit?usp=sharing
 
-The report I wrote (in French) concerning this project is also available "Rapport -2.pdf"
+The report I wrote (in French) concerning this project is also available, see the repository :  "Rapport -2.pdf"
 
